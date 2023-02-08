@@ -8,13 +8,13 @@ scoreboard objectives add PlayerKills playerKillCount
 scoreboard objectives add TotalKills totalKillCount
 scoreboard objectives add CreepersKilled killed:creeper
 scoreboard objectives add EndermenKilled killed:enderman
-#scoreboard objectives add WardenKills killed:warden
+scoreboard objectives add WardenKills killed:warden
 
 
 
 #Killed by
 scoreboard objectives add CreeperDeaths killed_by:creeper
-#scoreboard objectives add WardenDeaths killed_by:warden
+scoreboard objectives add WardenDeaths killed_by:warden
 
 
 #Displays
