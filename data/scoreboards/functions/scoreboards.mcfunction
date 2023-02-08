@@ -8,7 +8,6 @@ scoreboard objectives add PlayerKills playerKillCount
 scoreboard objectives add TotalKills totalKillCount
 scoreboard objectives add CreepersKilled killed:creeper
 scoreboard objectives add EndermenKilled killed:enderman
-scoreboard objectives add PigsKilled killed:pig
 #scoreboard objectives add WardenKills killed:warden
 
 
