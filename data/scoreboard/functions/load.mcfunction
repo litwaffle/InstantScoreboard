@@ -1,0 +1,1 @@
+tellraw @a {"text": "Instant Scoreboards loaded!"}

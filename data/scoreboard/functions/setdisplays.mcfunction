@@ -1,0 +1,3 @@
+scoreboard objectives setdisplay sidebar Deaths
+scoreboard objectives setdisplay list Level
+scoreboard objectives setdisplay belowName Health
