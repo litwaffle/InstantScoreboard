@@ -1,0 +1,1 @@
+tellraw @a {"text": "Scoreboard pack loaded!"}
